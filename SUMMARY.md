@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+# 傑克詹 の 算法筆記
 
 * [Week](week/index.md)
   * [Week1 (linked-list)](week/week1/20190407_20190413.md)
