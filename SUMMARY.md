@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 
 * [Week](week/index.md)
-  * [Week1 (linked-list)](week/week1(linked-list)/20190407_20190413.md)
-  * [Week2 (bfs)](week/week2(bfs)/20190414_20190420.md)
+  * [Week1 (linked-list)](week/week1/20190407_20190413.md)
+  * [Week2 (bfs)](week/week2/20190414_20190420.md)
 
 * [Tags](tags/index.md)
   * [Linked list](tags/linked-list/index.md)
