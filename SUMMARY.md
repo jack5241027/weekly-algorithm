@@ -16,3 +16,4 @@
     * [113. Path Sum II](tags/dfs/113.path-sum-II.md)
     * [105. Construct Binary Tree from Preorder and Inorder Traversal](tags/dfs/105.construct-binary-tree-from-preorder-and-inorder-traversal.md)
     * [47. Permutations II](tags/dfs/47.permutations-II.md)
+    * [79. Word Search](tags/dfs/79.word-search.md)
