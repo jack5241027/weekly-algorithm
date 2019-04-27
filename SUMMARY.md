@@ -12,6 +12,7 @@
     * [206. Reverse Linked List](tags/linked-list/206.reverse-linked-list.md)
   * [BFS](bfs/index.md)
     * [133. Clone Graph](tags/bfs/133.clone-graph.md)
+    * [127. Word Ladder](tags/bfs/127.word-ladder.md)
   * [DFS](dfs/index.md)
     * [113. Path Sum II](tags/dfs/113.path-sum-II.md)
     * [105. Construct Binary Tree from Preorder and Inorder Traversal](tags/dfs/105.construct-binary-tree-from-preorder-and-inorder-traversal.md)
