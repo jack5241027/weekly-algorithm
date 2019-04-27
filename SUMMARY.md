@@ -19,3 +19,4 @@
     * [79. Word Search](tags/dfs/79.word-search.md)
     * [78. subsets](tags/dfs/78.subsets.md)
     * [46. Permutations](tags/dfs/46.permutations.md)
+    * [494. Target Sum](tags/dfs/494.target-sum.md)
