@@ -6,7 +6,7 @@
   * [Week1 (linked-list)](week/week1/20190407_20190413.md)
   * [Week2 (bfs)](week/week2/20190414_20190420.md)
   * [Week3 (dfs)](week/week3/20190421_20190427.md)
-  * [Week3 (dfs)](week/week4/20190428_20190504.md)
+  * [Week4 (tree)](week/week4/20190428_20190504.md)
 
 * [Tags](tags/index.md)
   * [Linked list](tags/linked-list/index.md)
