@@ -22,3 +22,5 @@
     * [46. Permutations](tags/dfs/46.permutations.md)
     * [494. Target Sum](tags/dfs/494.target-sum.md)
     * [39. Combination Sum](tags/dfs/39.combination-sum.md)
+  * [Tree](tree/index.md)
+    * [173. Binary Search Tree Iterator](tags/tree/173.binary-search-tree-iterator.md)
