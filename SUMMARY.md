@@ -36,5 +36,5 @@
       * [268. Missing Number](tags/bit-manipulation/268.missing-number.md)
       * [338. Counting Bits](tags/bit-manipulation/338.counting-bits.md)
       * [371. Sum of Two Integers](tags/bit-manipulation/371.sum-of-two-integers.md)
-      * [389. Find the Difference](tags/bit-manipulation/371.sum-of-two-integers.md)
+      * [389. Find the Difference](tags/bit-manipulation/389.find-the-difference.md)
       * [784. Letter Case Permutation](tags/bit-manipulation/784.letter-case-permutation.md)
