@@ -31,7 +31,6 @@
     * [173. Binary Search Tree Iterator](tags/tree/173.binary-search-tree-iterator.md)
 
   * [Bit Manipulation](bit-manipulation/index.md)
-      * [78. Subsets](tags/bit-manipulation/78.subsets.md)
       * [190. Reverse Bits](tags/bit-manipulation/190.reverse-bits.md)
       * [268. Missing Number](tags/bit-manipulation/268.missing-number.md)
       * [338. Counting Bits](tags/bit-manipulation/338.counting-bits.md)
