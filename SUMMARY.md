@@ -8,6 +8,7 @@
   * [Week3 (dfs)](week/week3/20190421_20190427.md)
   * [Week4 (tree)](week/week4/20190428_20190504.md)
   * [Week5 (bit manipulation)](week/week5/20190512_20190518.md)
+  * [Week6 (data structure)](week/week6/20190519-20190525.md)
 
 * [Tags](tags/index.md)
   * [Linked list](tags/linked-list/index.md)
@@ -38,3 +39,5 @@
       * [371. Sum of Two Integers](tags/bit-manipulation/371.sum-of-two-integers.md)
       * [389. Find the Difference](tags/bit-manipulation/389.find-the-difference.md)
       * [784. Letter Case Permutation](tags/bit-manipulation/784.letter-case-permutation.md)
+
+* [Data Structure](data-structure/index.md)
