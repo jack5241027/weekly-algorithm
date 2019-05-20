@@ -40,4 +40,4 @@
       * [389. Find the Difference](tags/bit-manipulation/389.find-the-difference.md)
       * [784. Letter Case Permutation](tags/bit-manipulation/784.letter-case-permutation.md)
 
-* [Data Structure](data-structure/index.md)
+  * [Data Structure](data-structure/index.md)
