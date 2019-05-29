@@ -42,6 +42,7 @@
 
   * [Data Structure](data-structure/index.md)
       * [146. LRU Cache](tags/data-structure/146.lru-cache.md)
+      * [380. Insert Delete GetRandom O(1)](tags/data-structure/380.insert-delete-getRandom-O(1).md)
       * [23. Merge k Sorted Lists](tags/data-structure/23.merge-k-sorted-lists.md)
       * [706. Design HashMap]()
       * [705. Design HashSet]()
