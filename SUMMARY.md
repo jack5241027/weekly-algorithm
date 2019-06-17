@@ -9,6 +9,7 @@
   * [Week4 (tree)](week/week4/20190428_20190504.md)
   * [Week5 (bit manipulation)](week/week5/20190512_20190518.md)
   * [Week6 (data structure)](week/week6/20190519-20190525.md)
+  * [Week7 (string)](week/week7/20190609-20190615.md)
 
 * [Tags](tags/index.md)
   * [Linked list](tags/linked-list/index.md)
@@ -56,5 +57,5 @@
       * [647. Palindromic Substrings](tags/string/647.palindromic-substrings.md)
       * [890. Find and Replace Pattern](tags/string/890.find-and-replace-pattern.md)
       * [43. Multiply Strings](tags/string/43.multiply-strings.md)
-      * [22. Generate Parentheses]
-      * [387. First Unique Character in a String]
+      * [22. Generate Parentheses](tags/string/22.generate-parentheses.md)
+      * [387. First Unique Character in a String](tags/string/387.first-unique-character-in-a-string.md)
