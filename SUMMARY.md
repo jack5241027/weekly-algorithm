@@ -59,3 +59,10 @@
       * [43. Multiply Strings](tags/string/43.multiply-strings.md)
       * [22. Generate Parentheses](tags/string/22.generate-parentheses.md)
       * [387. First Unique Character in a String](tags/string/387.first-unique-character-in-a-string.md)
+
+  * [Prefix-tree](prefix-tree/index.md)
+      * [208. Implement Trie Prefix Tree](tags/prefix-tree/208.implement-trie-prefix-tree.md)
+
+  * [Array](array/index.md)
+
+  * [DP](dp/index.md)
